@@ -114,6 +114,8 @@ Yes the website can still be acessed, click on the "tell me more" button to see 
 
 In conclusion, if you follow all the steps mentioned above, you will succeed in deploying a any static website with AWS Codepipeline using Github and S3 bucket.
 
+#####3
+
 
 
 
